@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://gitlab.com/frozendev/jose/issues"
   },
-  "homepage": "https://gitlab.com/frozendev/jose#readme"
+  "homepage": "https://gitlab.com/frozendev/jose#readme",
+  "dependencies": {
+    "discord.js": "^14.7.1"
+  }
 }
