@@ -1,3 +1,7 @@
 {
-    "token": "TOKEN"
+	"version": "1.0.0-dev",
+	"embedColor": "#0099ff",
+	"clientId": "",
+	"targetGuildId": "",
+	"token": ""
 }
